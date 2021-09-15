@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sYF+PgWP3ltYnqOhAajatX16FHmXggmM+R8qdlSWs0UzSDpfp/dU+JdwjWq/vZGu+dx2tHtp4O+sFMeJ9d4tIw==",
+  "success": true,
+  "projectFilePath": "/home/canopus/Downloads/csharp/Cadastro.Series/Cadastro.Series.csproj",
+  "expectedPackageFiles": [
+    "/home/canopus/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

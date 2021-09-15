@@ -1,0 +1,16 @@
+/home/canopus/Downloads/csharp/Cadastro.Series/obj/Debug/net5.0/Cadastro.Series.csprojAssemblyReference.cache
+/home/canopus/Downloads/csharp/Cadastro.Series/obj/Debug/net5.0/Cadastro.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/canopus/Downloads/csharp/Cadastro.Series/obj/Debug/net5.0/Cadastro.Series.AssemblyInfoInputs.cache
+/home/canopus/Downloads/csharp/Cadastro.Series/obj/Debug/net5.0/Cadastro.Series.AssemblyInfo.cs
+/home/canopus/Downloads/csharp/Cadastro.Series/obj/Debug/net5.0/Cadastro.Series.csproj.CoreCompileInputs.cache
+/home/canopus/Downloads/csharp/Cadastro.Series/bin/Debug/net5.0/Cadastro.Series
+/home/canopus/Downloads/csharp/Cadastro.Series/bin/Debug/net5.0/Cadastro.Series.deps.json
+/home/canopus/Downloads/csharp/Cadastro.Series/bin/Debug/net5.0/Cadastro.Series.runtimeconfig.json
+/home/canopus/Downloads/csharp/Cadastro.Series/bin/Debug/net5.0/Cadastro.Series.runtimeconfig.dev.json
+/home/canopus/Downloads/csharp/Cadastro.Series/bin/Debug/net5.0/Cadastro.Series.dll
+/home/canopus/Downloads/csharp/Cadastro.Series/bin/Debug/net5.0/ref/Cadastro.Series.dll
+/home/canopus/Downloads/csharp/Cadastro.Series/bin/Debug/net5.0/Cadastro.Series.pdb
+/home/canopus/Downloads/csharp/Cadastro.Series/obj/Debug/net5.0/Cadastro.Series.dll
+/home/canopus/Downloads/csharp/Cadastro.Series/obj/Debug/net5.0/ref/Cadastro.Series.dll
+/home/canopus/Downloads/csharp/Cadastro.Series/obj/Debug/net5.0/Cadastro.Series.pdb
+/home/canopus/Downloads/csharp/Cadastro.Series/obj/Debug/net5.0/Cadastro.Series.genruntimeconfig.cache
